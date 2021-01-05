@@ -4,7 +4,7 @@
   "proxy": "http://snapchat-webac.tk",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "base64-to-image": "^1.0.2",
     "connect": "^3.6.6",
     "cors": "^2.8.5",
